@@ -1,10 +1,10 @@
-let advice = document.querySelector(".advice");
-let adviceId = document.querySelector(".advice-Id");
-let btn = document.querySelector(".get-advice");
+const advice = document.querySelector(".advice");
+const adviceId = document.querySelector(".advice-Id");
+const btn = document.querySelector(".get-advice");
 
 function getAdvice() {
 
-    fetch('https://api.adviceslip.com/advice')
+    fetch(`https://api.adviceslip.com/advice/${Math.floor(Math.random() * 224)}`)
         .then((response) => response.json())
         .then((data) => {
             advice.innerHTML = `“${data.slip.advice}”`;
