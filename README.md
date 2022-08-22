@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/abdelrhmanKh/advice-generator-app-main)
-- Live Site URL: [Add live site URL here](https://abdelrhmankh.github.io/advice-generator-app-main/)
+- Solution URL: [https://www.frontendmentor.io/solutions/advicegeneratorappmain-BOEmv4Mtyg](https://www.frontendmentor.io/solutions/advicegeneratorappmain-BOEmv4Mtyg)
+- Live Site URL: [https://abdelrhmankh.github.io/advice-generator-app-main/](https://abdelrhmankh.github.io/advice-generator-app-main/)
 
 ## My process
 
