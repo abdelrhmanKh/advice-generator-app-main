@@ -57,4 +57,4 @@ fetch("https://api.adviceslip.com/advice")
 
 - Website - [AbdelRahman Khalil](https://abdelrhmankh.github.io/abdelrhmankhalil/)
 - Frontend Mentor - [@abdelrhmanKh](https://www.frontendmentor.io/profile/abdelrhmanKh)
-- UpWork - [@yourusername](https://www.twitter.com/yourusername)
+- LinkedIn - [@Abdelrhman-khalil](https://www.linkedin.com/in/abdelrhman-khalil-ali-9716a0188/)
